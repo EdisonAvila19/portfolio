@@ -23,4 +23,4 @@
   <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
 </a>
 
-<p></p>
+<p>Portafolio de Edison Avila, creado con Astro, tomando como base el repositorio de <a href="https://github.com/midudev/porfolio.dev">porfolio.dev</a></p>
